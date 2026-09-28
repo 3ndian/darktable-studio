@@ -514,3 +514,7 @@ Community
 ---------
 
 * [Darktable forum on pixls.us](https://discuss.pixls.us/c/software/darktable/19)
+
+## About this fork
+
+**Darktable Studio** is an independent, personal fork of [darktable](https://www.darktable.org/) — it is not affiliated with, endorsed by, or supported by the official darktable project or its developers. This is a UI/UX experiment exploring a modernized interface and workflow on top of darktable's RAW-processing engine. Like darktable, it's licensed under the GNU GPLv3.
